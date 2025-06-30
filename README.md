@@ -79,10 +79,8 @@ Adjust parameters in `config.py` or within the `Config` class:
 
 ```bash
 # Basic detection and mapping pipeline
-git clone ...
+git clone https://github.com/Kxngh/Linked-Angles
 cd player-mapping-pipeline
-# (optional) activate venv
-python pipeline.py
 ````
 
 ## Output
