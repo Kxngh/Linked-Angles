@@ -1,0 +1,161 @@
+{
+  "mappings": [
+    {
+      "broadcast_track_id": 0,
+      "tacticam_track_id": 6,
+      "similarity_score": 0.4806177746836857,
+      "player_class": "player",
+      "broadcast_track_length": 26,
+      "tacticam_track_length": 41
+    },
+    {
+      "broadcast_track_id": 1,
+      "tacticam_track_id": 9,
+      "similarity_score": 0.541618891828541,
+      "player_class": "player",
+      "broadcast_track_length": 22,
+      "tacticam_track_length": 27
+    },
+    {
+      "broadcast_track_id": 2,
+      "tacticam_track_id": 2,
+      "similarity_score": 0.31759242034404633,
+      "player_class": "player",
+      "broadcast_track_length": 38,
+      "tacticam_track_length": 40
+    },
+    {
+      "broadcast_track_id": 3,
+      "tacticam_track_id": 8,
+      "similarity_score": 0.15413017818565344,
+      "player_class": "player",
+      "broadcast_track_length": 34,
+      "tacticam_track_length": 12
+    },
+    {
+      "broadcast_track_id": 4,
+      "tacticam_track_id": 32,
+      "similarity_score": 0.40212945369237024,
+      "player_class": "player",
+      "broadcast_track_length": 28,
+      "tacticam_track_length": 18
+    },
+    {
+      "broadcast_track_id": 5,
+      "tacticam_track_id": 7,
+      "similarity_score": 0.17502735157067567,
+      "player_class": "player",
+      "broadcast_track_length": 11,
+      "tacticam_track_length": 41
+    },
+    {
+      "broadcast_track_id": 6,
+      "tacticam_track_id": 22,
+      "similarity_score": 0.3510098413338353,
+      "player_class": "player",
+      "broadcast_track_length": 6,
+      "tacticam_track_length": 8
+    },
+    {
+      "broadcast_track_id": 7,
+      "tacticam_track_id": 19,
+      "similarity_score": 0.2843951327527651,
+      "player_class": "player",
+      "broadcast_track_length": 23,
+      "tacticam_track_length": 3
+    },
+    {
+      "broadcast_track_id": 8,
+      "tacticam_track_id": 21,
+      "similarity_score": 0.25068617571869634,
+      "player_class": "referee",
+      "broadcast_track_length": 5,
+      "tacticam_track_length": 5
+    },
+    {
+      "broadcast_track_id": 9,
+      "tacticam_track_id": 0,
+      "similarity_score": 0.21212400457086994,
+      "player_class": "player",
+      "broadcast_track_length": 32,
+      "tacticam_track_length": 57
+    },
+    {
+      "broadcast_track_id": 10,
+      "tacticam_track_id": 25,
+      "similarity_score": 0.2920205958652894,
+      "player_class": "referee",
+      "broadcast_track_length": 4,
+      "tacticam_track_length": 7
+    },
+    {
+      "broadcast_track_id": 11,
+      "tacticam_track_id": 27,
+      "similarity_score": 0.5820932643423816,
+      "player_class": "goalkeeper",
+      "broadcast_track_length": 6,
+      "tacticam_track_length": 5
+    },
+    {
+      "broadcast_track_id": 12,
+      "tacticam_track_id": 40,
+      "similarity_score": 0.3131063420038368,
+      "player_class": "referee",
+      "broadcast_track_length": 3,
+      "tacticam_track_length": 3
+    },
+    {
+      "broadcast_track_id": 13,
+      "tacticam_track_id": 34,
+      "similarity_score": 0.40099788929475555,
+      "player_class": "referee",
+      "broadcast_track_length": 7,
+      "tacticam_track_length": 3
+    },
+    {
+      "broadcast_track_id": 14,
+      "tacticam_track_id": 42,
+      "similarity_score": 0.3322474887553785,
+      "player_class": "player",
+      "broadcast_track_length": 5,
+      "tacticam_track_length": 6
+    },
+    {
+      "broadcast_track_id": 15,
+      "tacticam_track_id": 4,
+      "similarity_score": 0.43836698861381196,
+      "player_class": "player",
+      "broadcast_track_length": 11,
+      "tacticam_track_length": 41
+    },
+    {
+      "broadcast_track_id": 16,
+      "tacticam_track_id": 3,
+      "similarity_score": 0.22860774209157342,
+      "player_class": "player",
+      "broadcast_track_length": 3,
+      "tacticam_track_length": 60
+    },
+    {
+      "broadcast_track_id": 17,
+      "tacticam_track_id": 5,
+      "similarity_score": 0.3479896044085616,
+      "player_class": "player",
+      "broadcast_track_length": 6,
+      "tacticam_track_length": 41
+    }
+  ],
+  "metadata": {
+    "total_mappings": 18,
+    "avg_similarity": 0.3391533966698182,
+    "broadcast_tracks": 19,
+    "tacticam_tracks": 50,
+    "total_detections": 1138,
+    "processing_date": "2025-06-29",
+    "features_used": [
+      "visual",
+      "spatial",
+      "temporal"
+    ]
+  }
+}
