@@ -35,12 +35,7 @@ pip install -r requirements.txt
 
 ## Installation
 
-1. **Clone the repository**
-
-   ```bash
-   ```
-
-git clone [https://github.com/your-username/player-mapping-pipeline.git](https://github.com/your-username/player-mapping-pipeline.git)
+git clone [https://github.com/Kxngh/Linked-Angles](https://github.com/Kxngh/Linked-Angles)
 cd player-mapping-pipeline
 
 ````
@@ -53,9 +48,6 @@ venv\\Scripts\\activate  # Windows
 ````
 
 3. **Install dependencies**
-
-   ```bash
-   ```
 
 pip install -r requirements.txt
 
@@ -79,10 +71,8 @@ Adjust parameters in `config.py` or within the `Config` class:
 
 ```bash
 # Basic detection and mapping pipeline
-git clone ...
+git clone https://github.com/Kxngh/Linked-Angles
 cd player-mapping-pipeline
-# (optional) activate venv
-python pipeline.py
 ````
 
 ## Output
